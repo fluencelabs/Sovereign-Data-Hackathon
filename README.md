@@ -12,8 +12,7 @@ Fluence provides the infrastructure and tools to enable decentralized compute fo
 ## The Prizes
 
 ### Beginner Bounty — Use Self.Id to authenticate at least one Fluence service using Aqua
-Prize:
-TBA
+Prize: USD 1250
 
 
 Authentication may play a critical role in securing distributed services deployed to Fluence's open, permissionless peer-to-peer network. As the Fluence protocol is focused on compute, DID and decentralized "store", such as the [DID data store](https://developers.ceramic.network/tools/glaze/did-datastore/), allow developers to seamlessly build secure Web3 applications. 
@@ -21,8 +20,7 @@ For this challenge, we would like you to make use of Fluence's Aqua and [Self.Id
 
 
 ### Intermediate Bounty  — Implement the IdentityLink API in Aqua
-Prize:
-TBA
+Prize: USD 2000
 
 
 The Fluence protocol is about distributed, peer-to-peer compute services based on [Wasm Interface Types modules](https://hacks.mozilla.org/2019/08/webassembly-interface-types/) and complemented by [Aqua](https://doc.fluence.dev/aqua-book/), a purpose-built distributed network and application programming language. 
